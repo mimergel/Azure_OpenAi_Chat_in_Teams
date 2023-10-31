@@ -30,7 +30,7 @@ Integrate a ChatGPT-like experience directly into Microsoft Teams, enabling user
 
 - Login to: https://make.powerautomate.com/ <br>
 - Go to Solutions and import the Power Automate Flow. <br>
-- Here you can download the flow as zip file: [Download the Power Automate Flow](https://github.com/mimergel/Azure_OpenAi_Chat_in_Teams/raw/main/flow/Ask_me_anything_flow_export_1_0_0_2.zip) <br>
+- Here you can download the flow as zip file: [Download the Power Automate Flow](https://github.com/mimergel/Azure_OpenAi_Chat_in_Teams/raw/main/flow/Ask_me_anything_flow_export_1_0_0_4.zip) <br>
 
 
     ![Import the Flow](images/import-flow.jpg) <br>
