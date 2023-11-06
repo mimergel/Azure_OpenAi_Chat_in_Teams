@@ -102,4 +102,7 @@ Integrate a ChatGPT-like experience directly into Microsoft Teams, enabling user
 
     ![Troubleshooting 1](images/troubleshooting1.jpg) <br>
 
+## Disclaimer
+
+THE CONTENT OF THIS REPOSITORY IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
     ![Troubleshooting 2](images/troubleshooting2.jpg) <br>
